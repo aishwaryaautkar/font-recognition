@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/font-recognition/static/css/main.f7a740a6.chunk.css",
+    "main.js": "/font-recognition/static/js/main.706a5643.chunk.js",
+    "main.js.map": "/font-recognition/static/js/main.706a5643.chunk.js.map",
+    "runtime-main.js": "/font-recognition/static/js/runtime-main.c558b328.js",
+    "runtime-main.js.map": "/font-recognition/static/js/runtime-main.c558b328.js.map",
+    "static/css/2.ddad510e.chunk.css": "/font-recognition/static/css/2.ddad510e.chunk.css",
+    "static/js/2.8775bc7c.chunk.js": "/font-recognition/static/js/2.8775bc7c.chunk.js",
+    "static/js/2.8775bc7c.chunk.js.map": "/font-recognition/static/js/2.8775bc7c.chunk.js.map",
+    "index.html": "/font-recognition/index.html",
+    "static/css/2.ddad510e.chunk.css.map": "/font-recognition/static/css/2.ddad510e.chunk.css.map",
+    "static/css/main.f7a740a6.chunk.css.map": "/font-recognition/static/css/main.f7a740a6.chunk.css.map",
+    "static/js/2.8775bc7c.chunk.js.LICENSE.txt": "/font-recognition/static/js/2.8775bc7c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c558b328.js",
+    "static/css/2.ddad510e.chunk.css",
+    "static/js/2.8775bc7c.chunk.js",
+    "static/css/main.f7a740a6.chunk.css",
+    "static/js/main.706a5643.chunk.js"
+  ]
+}

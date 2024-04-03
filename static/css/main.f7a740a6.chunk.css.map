@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/style.css"],"names":[],"mappings":"AAAA,EACE,QACF,CACA,KACE,6CAEF,CACA,MACE,wBAAgC,CAChC,UAGF","file":"main.f7a740a6.chunk.css","sourcesContent":["*{\n  margin:0;\n}\nbody {\n  font-family: Roboto, Helvetica, Arial, sans-serif;\n  \n}\n.cont{\n  background-color:rgb(46, 47, 80);\n  color: white;\n \n\n}\n\n\n"]}
